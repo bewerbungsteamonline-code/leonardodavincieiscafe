@@ -281,7 +281,7 @@ footer {
 
     .menu.active {
         padding: 1.5rem;
-        max-height: 300px;
+        max-height: 400px;
     }
 
     .menu li {
